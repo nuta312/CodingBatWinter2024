@@ -1,0 +1,5 @@
+Git 
+push
+pull
+merge
+commit -m
